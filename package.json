@@ -1,0 +1,28 @@
+{
+  "name": "orange-jacket",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 5000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.2.2",
+    "@stripe/react-stripe-js": "^1.1.2",
+    "@stripe/stripe-js": "^1.10.0",
+    "antd": "^4.7.3",
+    "bootstrap": "^4.5.3",
+    "copy-to-clipboard": "^3.3.1",
+    "dotenv": "^8.2.0",
+    "firebase": "^7.14.0",
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-firebaseui": "^4.1.0",
+    "react-infinite-scroll-component": "^5.1.0",
+    "reactstrap": "^8.6.0",
+    "unsplash-js": "^6.3.0"
+  }
+}
